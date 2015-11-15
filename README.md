@@ -1,2 +1,2 @@
 # DatascienceCoursera
-Data Sciencetoolbox c lass project
+Data Sciencetoolbox class project
